@@ -1,0 +1,17 @@
+First of all, I really thank you for giving me a wonderful opportunity to introduce myself. A warm good morning to one and all.
+
+My name is Kondapalli Venkat Sai Janardhan Rao. I am currently pursuing my Bachelor of Technology in Computer Science at SR University, Telangana, with a CGPA of 7.5. I completed my intermediate education at Harvest Co-Operative Junior College, and my schooling at Harvest Public School.
+
+Coming to my family background, my father's name is K. Sreedhar Rao, and he is a government employee. My mother's name is K. Sandhya, and she is a homemaker.
+
+I'm a passionate learner with a strong interest in programming, artificial intelligence, and cybersecurity. I've worked on projects such as a Bank Management System using C, JavaScript, and MySQL, and a House Price Prediction model using Python and machine learning algorithms. I also have a published patent for a Security Management System for Public Transit Stations, which integrates smart surveillance and threat detection technologies.
+
+I've completed virtual internships through AICTE, including Java Full Stack Development, Cybersecurity Fundamentals, and Android Development, gaining hands-on experience in modern tools and technologies.
+
+My technical skills include C, Java, Python, JavaScript, and tools like React, MySQL, Scikit-learn. I'm also certified in AWS Cloud Computing, Microsoft Azure AI Fundamentals, and Computer Networks by Cisco.
+
+My goal is to become a successful software developer, contributing to innovative solutions and meaningful research in the tech industry.
+
+In my free time, I enjoy reading newspapers, watering plants, and exploring new technologies. Two of my favorite hobbies are playing chess and listening to music, which help me stay focused and relaxed.
+
+Once again, thank you for this opportunity. I'm truly excited to continue learning and growing in the field of technology.
